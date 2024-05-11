@@ -1,1 +1,1 @@
-this a dynamic periodic table
+this is a dynamic periodic table
